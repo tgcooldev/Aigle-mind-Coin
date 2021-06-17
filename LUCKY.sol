@@ -351,9 +351,9 @@ contract LUCKYTOKEN is Context, IBEP20, Ownable {
   string private _name;
 
   constructor() public {
-    _name = "LUCKY TOKEN";
-    _symbol = "LUCKY";
-    _decimals = 13;
+    _name = "African Bit Coin";
+    _symbol = "AFRIB";
+    _decimals = 8;
     _totalSupply = 10000000000000000000000000;
     _balances[msg.sender] = _totalSupply;
 
