@@ -1,7 +1,7 @@
-# LUCKY-TOKEN
+# Aiglemind-Coin
 
 
-🍀🍀🍀 LUCKY TOKEN (LUCKY) 🍀🍀🍀
+🍀🍀🍀 Aiglemind Coin 🍀🍀🍀
 
 Together we pick our way to the moon!🌕
 Let's grow fast with our simple token system of 1,000,000,000,000 tokens.📈
@@ -16,58 +16,52 @@ Let's grow fast with our simple token system of 1,000,000,000,000 tokens.📈
 
 🔒 LIQUIDITY - Liquidity locked 🔒 
 
-🌎 WEB https://luckytoken.app
+🌎 WEB https://coin.aiglemind.com/eagle
 
-🐦  https://twitter.com/LuckytokenA
+🐦  
 
 
 🌐 Usefull Links 🌐
 
 💩 Chart
-https://poocoin.app/tokens/0x1b3982935c415b6bebac2adeddf695da00ba5dae
+https://poocoin.app/tokens/....
 
 🥞 PancakeSwap
-https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x1b3982935c415b6bebac2adeddf695da00ba5dae
+https://exchange.pancakeswap.finance/#/swap?outputCurrency=.....
 
 ✅ Verified contract
-https://bscscan.com/address/0x1b3982935c415b6bebac2adeddf695da00ba5dae
+https://bscscan.com/address/....
 
-✅ Slippage tolerance %0.5 💪🏻
-
-✅ Anti Whale 🛑 🐳 
 
  💥 💵💵💵💵💵💵💵💵💵💵💵💵
-pre-sale min 0.01 Bnb - 3 Bnb Max
+pre-sale min 0.01 Bnb - 5 Bnb Max
 💵💵💵💵💵💵💵💵💵💵💵💵💵💥
 
 🔒 Liquidity locked 💯 
 
 📣📣
 
-LUCKY TOKEN SOSYAL MEDYA HESAPLARINDA BIZI DESTEKLEYİN 🙏
+EAGLE TOKEN SOSYAL MEDYA HESAPLARINDA BIZI DESTEKLEYİN 🙏
 💸📣🎁 AIRDROP ETKİNLİKLERİNİ KAÇIRMAYIN 🤑
 
-👉İnstagram 
-https://instagram.com/luckytokenn
-
-👉Twitter 🐦
-https://twitter.com/luckytokenA
-
 👉Facebook 
-
+https://www.facebook.com/aiglemindbenin
 👉Telegram 📣📣
-https://t.me/joinchat/luckytokenn
+https://t.me/aiglemindcoin
+👉WEB Sitesi
+🌎 https://coin.aiglemind.com/eagle
+
 
 👉Reddit
-https://www.reddit.com/r/LUCKYTOKENAPP
+
+
+👉İnstagram 
+
+
+👉Twitter 🐦
+
+
 
 👉Tiktok
-https://tiktok.com/@luckytoken.app
 
-👉WEB Sitesi
-🌎 https://luckytoken.app
-
-17 Haziran ön satış Dxsale de gerçekleşecektir. Telegram kanalımıza gelerek gelişmeleri yakından takip edebilirsiniz... Teşekkürler
-
-![image](https://user-images.githubusercontent.com/85232685/120693791-2215aa00-c4b2-11eb-9cc4-68888fd9d963.png)
 
